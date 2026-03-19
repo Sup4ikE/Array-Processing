@@ -1,5 +1,0 @@
-Summed numbers:
-124
-159
-180
-19
